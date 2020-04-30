@@ -1,5 +1,7 @@
 ## **静大情報学部行情B2生必修科目まとめ(雑)**
 
+[ホーム](index.md)
+
 ![header_img](images/fight.jpg)<br>
 引用 : https://image.brush-stock.com/img/veworequ002247.jpg
 ### 注意
@@ -17,6 +19,8 @@
 >	- [金曜日](#%e9%87%91%e6%9b%9c%e6%97%a5)
 >	- [**リンク**](#%e3%83%aa%e3%83%b3%e3%82%af)
 
+___
+
 | 絵文字 | 意味 |
 |-------|-------|
 | :disappointed_relieved: | よく分からない。資料読んで、よく確認のこと |
@@ -26,7 +30,7 @@
 | 時限 | 講義名 | 形式 | 資料配布元 | 課題提出 | 情報源/備考 |
 |--------|--------|-------|--------|--------|--------|--------|
 | 1コマ |情報倫理と法 | スライド(音声つき) | OneDrive(学情にお知らせ有。頑張って辿るべし) | 学情 | 学情 2020/04/30 00:00 |
-| 2,3コマ | 情報システム基礎演習(山本先生) | 動画など | [講義サイト](https://inf-shizuoka-ac-jp.github.io/isfs-ood-2020/) | [講義サイト](https://inf-shizuoka-ac-jp.github.io/isfs-ood-2020/)に沿って | このサイトどおりにやるだけ。Teamsも見る。 |
+| 2,3コマ | 情報システム基礎演習(山本先生) | 動画など | Teams等で共有のあった講義サイト | 例の講義サイトから | このサイトどおりにやるだけ。Teamsも見る。 |
 | 2,3コマ | 情報システム基礎演習(白井先生) | 動画など | 学情からのお知らせについてきたpdfに視聴用URLが載ってる | 学情 | 学情のお知らせを注視? Teamsも。 |
 
 ### 火曜日
@@ -54,3 +58,8 @@
 | 時限 | 講義名 |形式 | 資料配布元 | 課題提出 | 備考 |
 |-------|-------|-------|-------|-------|-------|-------|
 | 5コマ | データベース論 | :disappointed_relieved: | :disappointed_relieved: | :disappointed_relieved: | :disappointed_relieved: |
+
+___
+
+<br>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUXIHIOltro6gSuqv1PX88ipcsTTeA9TwMhDI5GJvy7NvOPA/viewform?embedded=true" width="640" height="460" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
