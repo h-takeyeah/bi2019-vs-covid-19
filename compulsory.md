@@ -6,7 +6,7 @@
 
 **最終更新日：5月4日(月)**
 
-![header_img](images/calender_shock_man_s.png)<br>
+![header_img](images/calender_shock_man.png)<br>
 引用 : https://www.irasutoya.com/2018/01/blog-post_38.html
 ### 注意
 - <font color="Red">このページに書かれていることは自分用のメモです</font>
