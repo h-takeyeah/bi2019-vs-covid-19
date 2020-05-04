@@ -1,6 +1,6 @@
-<link href="main.css" rel="stylesheet"></link>
+<link href="main.css" rel="stylesheet">
 
-## **静大情報学部行情B2生必修科目まとめ(雑)**
+## **必修科目まとめ(雑)**
 
 [ホーム](index.md)
 
@@ -11,16 +11,15 @@
 ### 注意
 - <font color="Red">このページに書かれていることは自分用のメモです</font>
 - <font color="Red"><del><strong>4月29日現在</strong></del><ins>更新しました</ins>の情報であり、<del>3回目以降の講義がどうなるのか不透明</del><ins>当分の間対面授業はない</ins>です</font>
-- 最後に更新した部分は<font color=greenyellow><strong>緑文字</font></strong>になっています
+- 最後に更新した部分は<font color=orange><strong>オレンジ色</font></strong>になっています
 
- - [**静大情報学部行情B2生必修科目まとめ(雑)**](#%e9%9d%99%e5%a4%a7%e6%83%85%e5%a0%b1%e5%ad%a6%e9%83%a8%e8%a1%8c%e6%83%85b2%e7%94%9f%e5%bf%85%e4%bf%ae%e7%a7%91%e7%9b%ae%e5%b1%a5%e4%bf%ae%e6%a1%88%e5%86%85%e9%9b%91)
+- [**必修科目まとめ(雑)**](#%e5%bf%85%e4%bf%ae%e7%a7%91%e7%9b%ae%e3%81%be%e3%81%a8%e3%82%81%e9%9b%91)
 	- [注意](#%e6%b3%a8%e6%84%8f)
 	- [月曜日](#%e6%9c%88%e6%9b%9c%e6%97%a5)
 	- [火曜日](#%e7%81%ab%e6%9b%9c%e6%97%a5)
 	- [水曜日](#%e6%b0%b4%e6%9b%9c%e6%97%a5)
 	- [木曜日](#%e6%9c%a8%e6%9b%9c%e6%97%a5)
 	- [金曜日](#%e9%87%91%e6%9b%9c%e6%97%a5)
-	- [**リンク**](#%e3%83%aa%e3%83%b3%e3%82%af)
 
 ___
 
